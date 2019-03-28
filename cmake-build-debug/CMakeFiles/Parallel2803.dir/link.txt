@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Parallel2803.dir/main.cpp.o  -o Parallel2803 

@@ -1,0 +1,3 @@
+/home/micheal/CLionProjects/Parallel2803/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/micheal/CLionProjects/Parallel2803/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/micheal/CLionProjects/Parallel2803/cmake-build-debug/CMakeFiles/Parallel2803.dir
